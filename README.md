@@ -18,8 +18,10 @@ In vMix lege ich eine neue Quelle an. VMix ist im Modus "caller" und holt sich d
 
 ![SRT Einstellungen](https://github.com/richtertoralf/vMix-firstSteps/blob/6cc25a895d9174d04059e746f4fec6bfcfc7ae69/WhatsApp%20Image%202021-11-02%20at%2014.28.27.jpeg "SRT-settings")
 
->Achtung: In der Windows Firewall müssen die für SRT genutzten Ports explizit freigegeben werden. In diesem Fall der Port 9999 für UDP.  
+**Achtung: In der Windows Firewall müssen die für SRT genutzten Ports explizit freigegeben werden. In diesem Fall der Port 9999 für UDP.**
+
 **Sieht doch schon mal gut aus:**
+
 ![first step](https://github.com/richtertoralf/vMix-firstSteps/blob/cd170b5a5c4fbd289701a3fd80466722616b9eaa/WhatsApp%20Image%202021-11-02%20at%2014.41.34.jpeg "first step")
 
 ### Streamen
