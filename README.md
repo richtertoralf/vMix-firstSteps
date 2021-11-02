@@ -14,4 +14,5 @@ hostname -I
 ## vMix
 VMix läuft auf einen Windows Rechner mit der **IP 192.168.95.122**.  
 In vMix lege ich eine neue Quelle an. VMix ist im Modus "caller" und holt sich damit den Stream vom Linux Rechner.  
-![SRT Einstellungen](WhatsApp Image 2021-11-02 at 14.28.27.jpeg)
+
+![SRT Einstellungen](https://github.com/richtertoralf/vMix-firstSteps/blob/6cc25a895d9174d04059e746f4fec6bfcfc7ae69/WhatsApp%20Image%202021-11-02%20at%2014.28.27.jpeg)
